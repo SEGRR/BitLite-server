@@ -1,0 +1,18 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon main.js"
+  },
+  "author": "segrr",
+  "license": "ISC",
+  "dependencies": {
+    "@influxdata/influxdb-client": "^1.33.2",
+    "dotenv": "^16.4.1",
+    "mqtt": "^5.3.5",
+    "nodemon": "^3.0.3"
+  }
+}
