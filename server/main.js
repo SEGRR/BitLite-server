@@ -1,7 +1,11 @@
 const {InfluxDB, Point} = require('@influxdata/influxdb-client')
 require('dotenv').config();
 const mqtt = require("mqtt");
+const fs = require('fs')
 
+const caCert =  fs.readFileSync("./ca-server.crt");
+
+// console.log(caCert);
 
 
 // Change this to point to your MQTT broker or DNS name
@@ -35,10 +39,12 @@ function connectToBroker() {
     // const hostURL = `${protocol}://${mqttHost}:${port}`;
     var options = {
         host: process.env.BROKER_HOST,
-        port: process.env.BROKER_PORT,
-        protocol: process.env.BROKER_PROTOCOL,
-        username: process.env.BROKER_USERNAME,
-        password: process.env.BROKER_PASSWORD,
+        port: "1883",
+        protocol: "mqtts",
+        username:'server',
+        password:"server123",
+        rejectUnauthorized: false,
+        ca: caCert
 
     }
 

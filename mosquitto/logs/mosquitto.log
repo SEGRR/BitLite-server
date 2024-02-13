@@ -89,3 +89,521 @@
 1706363105: Client mqttjs_c433c5f7 closed its connection.
 1706363105: mosquitto version 2.0.18 terminating
 1706363105: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707193437: mosquitto version 2.0.18 starting
+1707193437: Config loaded from /mosquitto/config/mosquitto.conf.
+1707193437: Opening ipv4 listen socket on port 1883.
+1707193437: Opening ipv6 listen socket on port 1883.
+1707193437: Error: Unable to load CA certificates. Check cafile "ca.crt".
+1707193437: Error: Unable to load server certificate "mosquitto.crt". Check certfile.
+1707193437: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707193437: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707193437: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707193437: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707193437: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707193437: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707193508: mosquitto version 2.0.18 starting
+1707193508: Config loaded from /mosquitto/config/mosquitto.conf.
+1707193508: Opening ipv4 listen socket on port 1883.
+1707193508: Opening ipv6 listen socket on port 1883.
+1707193508: Error: Unable to load CA certificates. Check cafile "ca.crt".
+1707193508: Error: Unable to load server certificate "mosquitto.crt". Check certfile.
+1707193508: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707193508: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707193508: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707193508: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707193508: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707193508: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707193744: mosquitto version 2.0.18 starting
+1707193744: Config loaded from /mosquitto/config/mosquitto.conf.
+1707193744: Opening ipv4 listen socket on port 1883.
+1707193744: Opening ipv6 listen socket on port 1883.
+1707193744: Error: Unable to load CA certificates. Check cafile "ca.crt".
+1707193744: Error: Unable to load server certificate "mosquitto.crt". Check certfile.
+1707193744: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707193744: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707193744: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707193744: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707193744: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707193744: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707193800: mosquitto version 2.0.18 starting
+1707193800: Config loaded from /mosquitto/config/mosquitto.conf.
+1707193800: Opening ipv4 listen socket on port 1883.
+1707193800: Opening ipv6 listen socket on port 1883.
+1707193800: Error: Unable to load CA certificates. Check cafile "./ca.crt".
+1707193800: Error: Unable to load server certificate "./mosquitto.crt". Check certfile.
+1707193800: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707193800: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707193800: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707193800: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707193800: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707193800: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707193875: mosquitto version 2.0.18 starting
+1707193875: Config loaded from /mosquitto/config/mosquitto.conf.
+1707193875: Opening ipv4 listen socket on port 1883.
+1707193875: Opening ipv6 listen socket on port 1883.
+1707193875: Error: Unable to load CA certificates. Check cafile "/mosquitto/configuration/ca.crt".
+1707193875: Error: Unable to load server certificate "/mosquitto/configuration/mosquitto.crt". Check certfile.
+1707193875: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707193875: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707193875: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707193875: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707193875: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707193875: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707193930: mosquitto version 2.0.18 starting
+1707193930: Config loaded from /mosquitto/config/mosquitto.conf.
+1707193930: Opening ipv4 listen socket on port 1883.
+1707193930: Opening ipv6 listen socket on port 1883.
+1707193930: Error: Unable to load CA certificates. Check cafile "/mosquitto/configuration/ca.crt".
+1707193930: Error: Unable to load server certificate "/mosquitto/configuration/mosquitto.crt". Check certfile.
+1707193930: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707193930: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707193930: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707193930: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707193930: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707193930: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707194493: mosquitto version 2.0.18 starting
+1707194493: Config loaded from /mosquitto/config/mosquitto.conf.
+1707194493: Opening ipv4 listen socket on port 1883.
+1707194493: Opening ipv6 listen socket on port 1883.
+1707194493: Error: Unable to load CA certificates. Check cafile "/mosquitto/configuration/ca.crt".
+1707194493: Error: Unable to load server certificate "/mosquitto/configuration/mosquitto.crt". Check certfile.
+1707194493: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707194493: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707194493: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707194493: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707194493: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707194493: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707194655: mosquitto version 2.0.18 starting
+1707194655: Config loaded from /mosquitto/config/mosquitto.conf.
+1707194655: Opening ipv4 listen socket on port 1883.
+1707194655: Opening ipv6 listen socket on port 1883.
+1707194655: mosquitto version 2.0.18 running
+1707194839: mosquitto version 2.0.18 terminating
+1707194839: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707194839: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707194839: mosquitto version 2.0.18 starting
+1707194839: Config loaded from /mosquitto/config/mosquitto.conf.
+1707194839: Opening ipv4 listen socket on port 1883.
+1707194839: Opening ipv6 listen socket on port 1883.
+1707194839: mosquitto version 2.0.18 running
+1707194889: New connection from 172.18.0.4:37368 on port 1883.
+1707194889: Client <unknown> closed its connection.
+1707194911: New connection from 172.18.0.4:50666 on port 1883.
+1707194911: Client <unknown> closed its connection.
+1707194929: mosquitto version 2.0.18 terminating
+1707194929: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707194929: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707194936: mosquitto version 2.0.18 starting
+1707194936: Config loaded from /mosquitto/config/mosquitto.conf.
+1707194936: Opening ipv4 listen socket on port 1883.
+1707194936: Opening ipv6 listen socket on port 1883.
+1707194936: mosquitto version 2.0.18 running
+1707194937: New connection from 172.18.0.4:33380 on port 1883.
+1707194937: Client <unknown> closed its connection.
+1707195246: New connection from 172.18.0.4:50496 on port 1883.
+1707195246: Client <unknown> closed its connection.
+1707195316: mosquitto version 2.0.18 terminating
+1707195316: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707195316: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707195760: mosquitto version 2.0.18 starting
+1707195760: Config loaded from /mosquitto/config/mosquitto.conf.
+1707195760: Opening ipv4 listen socket on port 1883.
+1707195760: Opening ipv6 listen socket on port 1883.
+1707195760: mosquitto version 2.0.18 running
+1707195761: New connection from 172.18.0.4:39372 on port 1883.
+1707195761: Client <unknown> closed its connection.
+1707195910: New connection from 172.18.0.4:46804 on port 1883.
+1707195910: Client <unknown> closed its connection.
+1707195992: New connection from 172.18.0.4:46162 on port 1883.
+1707195992: Client <unknown> closed its connection.
+1707196042: New connection from 172.18.0.4:42140 on port 1883.
+1707196042: Client <unknown> closed its connection.
+1707196051: New connection from 172.18.0.4:50644 on port 1883.
+1707196051: Client <unknown> closed its connection.
+1707196296: New connection from 172.18.0.4:49134 on port 1883.
+1707196296: Client <unknown> closed its connection.
+1707196325: New connection from 172.18.0.4:50544 on port 1883.
+1707196325: New client connected from 172.18.0.4:50544 as mqttjs_95857854 (p2, c1, k60, u'server').
+1707196383: Client mqttjs_95857854 closed its connection.
+1707196383: New connection from 172.18.0.4:60762 on port 1883.
+1707196383: Client <unknown> closed its connection.
+1707196401: mosquitto version 2.0.18 terminating
+1707196401: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707196401: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707196404: mosquitto version 2.0.18 starting
+1707196404: Config loaded from /mosquitto/config/mosquitto.conf.
+1707196404: Opening ipv4 listen socket on port 1883.
+1707196404: Opening ipv6 listen socket on port 1883.
+1707196404: mosquitto version 2.0.18 running
+1707196406: New connection from 172.18.0.4:51222 on port 1883.
+1707196406: Client <unknown> closed its connection.
+1707196686: New connection from 172.18.0.4:56402 on port 1883.
+1707196686: Client <unknown> closed its connection.
+1707196691: New connection from 172.18.0.4:56414 on port 1883.
+1707196691: Client <unknown> closed its connection.
+1707196710: mosquitto version 2.0.18 terminating
+1707196710: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707196710: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707196718: mosquitto version 2.0.18 starting
+1707196718: Config loaded from /mosquitto/config/mosquitto.conf.
+1707196718: Opening ipv4 listen socket on port 1883.
+1707196718: Opening ipv6 listen socket on port 1883.
+1707196718: mosquitto version 2.0.18 running
+1707196719: New connection from 172.18.0.4:57432 on port 1883.
+1707196719: Client <unknown> closed its connection.
+1707196768: New connection from 172.18.0.4:38790 on port 1883.
+1707196768: New client connected from 172.18.0.4:38790 as mqttjs_7f8778a4 (p2, c1, k60, u'server').
+1707196912: Client mqttjs_7f8778a4 closed its connection.
+1707196912: mosquitto version 2.0.18 terminating
+1707196912: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707196912: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707197173: mosquitto version 2.0.18 starting
+1707197173: Config loaded from /mosquitto/config/mosquitto.conf.
+1707197173: Opening ipv4 listen socket on port 1883.
+1707197173: Opening ipv6 listen socket on port 1883.
+1707197173: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/ba-broker.crt".
+1707197173: mosquitto version 2.0.18 running
+1707197175: New connection from 172.18.0.4:52684 on port 1883.
+1707197175: Client <unknown> closed its connection.
+1707197243: mosquitto version 2.0.18 terminating
+1707197243: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707197243: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707197344: mosquitto version 2.0.18 starting
+1707197344: Config loaded from /mosquitto/config/mosquitto.conf.
+1707197344: Opening ipv4 listen socket on port 1883.
+1707197344: Opening ipv6 listen socket on port 1883.
+1707197344: Error: Unable to load CA certificates. Check cafile "/mosquitto/config/ba-broker.crt".
+1707197344: mosquitto version 2.0.18 running
+1707197345: New connection from 172.18.0.4:48948 on port 1883.
+1707197345: Client <unknown> closed its connection.
+1707197354: New connection from 172.18.0.4:48962 on port 1883.
+1707197354: Client <unknown> closed its connection.
+1707197373: New connection from 172.18.0.4:53924 on port 1883.
+1707197373: New client connected from 172.18.0.4:53924 as mqttjs_b8a61371 (p2, c1, k60, u'server').
+1707197389: Client mqttjs_b8a61371 closed its connection.
+1707197390: mosquitto version 2.0.18 terminating
+1707197390: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707197390: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707759543: mosquitto version 2.0.18 starting
+1707759543: Config loaded from /mosquitto/config/mosquitto.conf.
+1707759543: Error: Unable to open pwfile "/mosquitto/config/password_file".
+1707759543: Error opening password file "/mosquitto/config/password_file".
+1707759658: mosquitto version 2.0.18 starting
+1707759658: Config loaded from /mosquitto/config/mosquitto.conf.
+1707759658: Error: Unable to open pwfile "/mosquitto/config/password_file".
+1707759658: Error opening password file "/mosquitto/config/password_file".
+1707759734: mosquitto version 2.0.18 starting
+1707759734: Config loaded from /mosquitto/config/mosquitto.conf.
+1707759734: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707759734: Error opening password file "/mosquitto/configuration//password_file".
+1707759812: mosquitto version 2.0.18 starting
+1707759812: Config loaded from /mosquitto/config/mosquitto.conf.
+1707759812: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707759812: Error opening password file "/mosquitto/configuration//password_file".
+1707759914: mosquitto version 2.0.18 starting
+1707759914: Config loaded from /mosquitto/config/mosquitto.conf.
+1707759914: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707759914: Error opening password file "/mosquitto/configuration//password_file".
+1707759966: mosquitto version 2.0.18 starting
+1707759966: Config loaded from /mosquitto/config/mosquitto.conf.
+1707759966: Opening ipv4 listen socket on port 1883.
+1707759966: Opening ipv6 listen socket on port 1883.
+1707759966: mosquitto version 2.0.18 running
+1707760002: mosquitto version 2.0.18 terminating
+1707760002: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707760002: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707760003: mosquitto version 2.0.18 starting
+1707760003: Config loaded from /mosquitto/config/mosquitto.conf.
+1707760003: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707760003: Error opening password file "/mosquitto/configuration//password_file".
+1707760180: mosquitto version 2.0.18 starting
+1707760180: Config loaded from /mosquitto/config/mosquitto.conf.
+1707760180: Opening ipv4 listen socket on port 1883.
+1707760180: Opening ipv6 listen socket on port 1883.
+1707760180: mosquitto version 2.0.18 running
+1707760249: New connection from 172.18.0.3:39714 on port 1883.
+1707760249: Client <unknown> disconnected due to protocol error.
+1707760294: mosquitto version 2.0.18 terminating
+1707760294: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707760294: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707760315: mosquitto version 2.0.18 starting
+1707760315: Config loaded from /mosquitto/config/mosquitto.conf.
+1707760315: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707760315: Error opening password file "/mosquitto/configuration//password_file".
+1707760866: mosquitto version 2.0.18 starting
+1707760866: Config loaded from /mosquitto/config/mosquitto.conf.
+1707760866: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707760866: Error opening password file "/mosquitto/configuration//password_file".
+1707760996: mosquitto version 2.0.18 starting
+1707760996: Config loaded from /mosquitto/config/mosquitto.conf.
+1707760996: Error: Unable to open pwfile "/mosquitto/configuration//password_file".
+1707760996: Error opening password file "/mosquitto/configuration//password_file".
+1707761024: mosquitto version 2.0.18 starting
+1707761024: Config loaded from /mosquitto/config/mosquitto.conf.
+1707761024: Opening ipv4 listen socket on port 1883.
+1707761024: Opening ipv6 listen socket on port 1883.
+1707761024: mosquitto version 2.0.18 running
+1707761165: mosquitto version 2.0.18 terminating
+1707761165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707761165: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707761166: mosquitto version 2.0.18 starting
+1707761166: Config loaded from /mosquitto/config/mosquitto.conf.
+1707761166: Error: Unable to open pwfile "/mosquitto/configuration/password_file".
+1707761166: Error opening password file "/mosquitto/configuration/password_file".
+1707761434: mosquitto version 2.0.18 starting
+1707761434: Config loaded from /mosquitto/config/mosquitto.conf.
+1707761434: Error: Unable to open pwfile "/mosquitto/configuration/password_file".
+1707761434: Error opening password file "/mosquitto/configuration/password_file".
+1707761798: mosquitto version 2.0.18 starting
+1707761798: Config loaded from /mosquitto/config/mosquitto.conf.
+1707761798: Error: Unable to open pwfile "/mosquitto/configuration/password_file".
+1707761798: Error opening password file "/mosquitto/configuration/password_file".
+1707761970: mosquitto version 2.0.18 starting
+1707761970: Config loaded from /mosquitto/config/mosquitto.conf.
+1707761970: Opening ipv4 listen socket on port 1883.
+1707761970: Opening ipv6 listen socket on port 1883.
+1707761970: Error: Unable to load CA certificates. Check cafile "/mosquitto/configuration/ca-broker.crt".
+1707761970: Error: Unable to load server certificate "/mosquitto/configuration/mosquitto.crt". Check certfile.
+1707761970: OpenSSL Error[0]: error:02FFF002:system library:func(4095):No such file or directory
+1707761970: OpenSSL Error[1]: error:20FFF080:BIO routines:CRYPTO_internal:no such file
+1707761970: OpenSSL Error[2]: error:0BFFF002:x509 certificate routines:CRYPTO_internal:system lib
+1707761970: OpenSSL Error[3]: error:02FFF002:system library:func(4095):No such file or directory
+1707761970: OpenSSL Error[4]: error:20FFF002:BIO routines:CRYPTO_internal:system lib
+1707761970: OpenSSL Error[5]: error:14FFF002:SSL routines:(UNKNOWN)SSL_internal:system lib
+1707762020: mosquitto version 2.0.18 starting
+1707762020: Config loaded from /mosquitto/config/mosquitto.conf.
+1707762020: Opening ipv4 listen socket on port 1883.
+1707762020: Opening ipv6 listen socket on port 1883.
+1707762020: mosquitto version 2.0.18 running
+1707762257: mosquitto version 2.0.18 terminating
+1707762257: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707762257: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707762258: mosquitto version 2.0.18 starting
+1707762258: Config loaded from /mosquitto/config/mosquitto.conf.
+1707762258: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1707762258: Error: Invalid password hash type for user server, removing entry.
+1707762258: Opening ipv4 listen socket on port 1883.
+1707762258: Opening ipv6 listen socket on port 1883.
+1707762258: mosquitto version 2.0.18 running
+1707762280: New connection from 172.18.0.4:55588 on port 1883.
+1707762280: Client mqttjs_9186185a disconnected, not authorised.
+1707762338: New connection from 172.18.0.4:44224 on port 1883.
+1707762338: Client mqttjs_aa8bb69b disconnected, not authorised.
+1707762445: New connection from 172.18.0.4:56232 on port 1883.
+1707762445: Client mqttjs_bde44683 disconnected, not authorised.
+1707762450: New connection from 172.18.0.4:39494 on port 1883.
+1707762450: Client mqttjs_da6be223 disconnected, not authorised.
+1707762451: New connection from 172.18.0.4:39496 on port 1883.
+1707762451: Client mqttjs_5d3ec828 disconnected, not authorised.
+1707762455: New connection from 172.18.0.4:39510 on port 1883.
+1707762455: Client mqttjs_5e7ac1a4 disconnected, not authorised.
+1707762457: New connection from 172.18.0.4:38254 on port 1883.
+1707762457: Client mqttjs_870702bc disconnected, not authorised.
+1707762461: New connection from 172.18.0.4:38258 on port 1883.
+1707762461: Client mqttjs_90e0ab03 disconnected, not authorised.
+1707762496: New connection from 172.18.0.4:38014 on port 1883.
+1707762496: Client mqttjs_7a18f036 disconnected, not authorised.
+1707762619: New connection from 172.18.0.4:37596 on port 1883.
+1707762619: Client <unknown> closed its connection.
+1707762626: New connection from 172.18.0.4:43254 on port 1883.
+1707762626: Client mqttjs_225112ef disconnected, not authorised.
+1707762773: New connection from 172.18.0.4:55078 on port 1883.
+1707762773: Client mqttjs_5d724bb4 disconnected, not authorised.
+1707763038: New connection from 172.18.0.4:39756 on port 1883.
+1707763038: Client mqttjs_84773a98 disconnected, not authorised.
+1707763057: mosquitto version 2.0.18 terminating
+1707763057: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707763057: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707763057: mosquitto version 2.0.18 starting
+1707763057: Config loaded from /mosquitto/config/mosquitto.conf.
+1707763057: Opening ipv4 listen socket on port 1883.
+1707763057: Opening ipv6 listen socket on port 1883.
+1707763057: mosquitto version 2.0.18 running
+1707763063: New connection from 172.18.0.4:50358 on port 1883.
+1707763063: Client mqttjs_a621bd0d disconnected, not authorised.
+1707763206: New connection from 172.18.0.4:48094 on port 1883.
+1707763206: Client mqttjs_0bfcb202 disconnected, not authorised.
+1707763220: New connection from 172.18.0.4:57930 on port 1883.
+1707763220: Client mqttjs_aaf44e81 disconnected, not authorised.
+1707763355: mosquitto version 2.0.18 terminating
+1707763355: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707763355: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707763364: mosquitto version 2.0.18 starting
+1707763364: Config loaded from /mosquitto/config/mosquitto.conf.
+1707763364: Opening ipv4 listen socket on port 1883.
+1707763364: Opening ipv6 listen socket on port 1883.
+1707763364: Opening ipv4 listen socket on port 1884.
+1707763364: Opening ipv6 listen socket on port 1884.
+1707763364: mosquitto version 2.0.18 running
+1707763366: New connection from 172.18.0.4:48376 on port 1884.
+1707763366: Client <unknown> disconnected due to protocol error.
+1707763421: New connection from 172.18.0.4:45386 on port 1884.
+1707763421: New client connected from 172.18.0.4:45386 as mqttjs_d40cdfff (p2, c1, k60, u'server').
+1707763433: Client mqttjs_d40cdfff closed its connection.
+1707763433: New connection from 172.18.0.4:49046 on port 1883.
+1707763433: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1707763433: Client <unknown> disconnected: Protocol error.
+1707763467: New connection from 172.18.0.4:41022 on port 1883.
+1707763467: Client mqttjs_0467d342 disconnected, not authorised.
+1707765165: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707765165: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707796556: mosquitto version 2.0.18 starting
+1707796556: Config loaded from /mosquitto/config/mosquitto.conf.
+1707796556: Opening ipv4 listen socket on port 1883.
+1707796556: Opening ipv6 listen socket on port 1883.
+1707796556: Opening ipv4 listen socket on port 1884.
+1707796556: Opening ipv6 listen socket on port 1884.
+1707796556: mosquitto version 2.0.18 running
+1707796563: New connection from 172.18.0.4:46226 on port 1883.
+1707796563: Client mqttjs_4540dd02 disconnected, not authorised.
+1707796618: New connection from 172.18.0.4:43360 on port 1883.
+1707796618: Client mqttjs_b69ba9ff disconnected, not authorised.
+1707796655: mosquitto version 2.0.18 terminating
+1707796655: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707796655: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707796656: mosquitto version 2.0.18 starting
+1707796656: Config loaded from /mosquitto/config/mosquitto.conf.
+1707796656: Opening ipv4 listen socket on port 1883.
+1707796656: Opening ipv6 listen socket on port 1883.
+1707796656: Opening ipv4 listen socket on port 1884.
+1707796656: Opening ipv6 listen socket on port 1884.
+1707796656: mosquitto version 2.0.18 running
+1707796664: New connection from 172.18.0.4:35386 on port 1883.
+1707796664: New client connected from 172.18.0.4:35386 as mqttjs_a18cba62 (p2, c1, k60, u'server').
+1707796707: mosquitto version 2.0.18 terminating
+1707796707: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707796707: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707796707: mosquitto version 2.0.18 starting
+1707796707: Config loaded from /mosquitto/config/mosquitto.conf.
+1707796707: Opening ipv4 listen socket on port 1883.
+1707796707: Opening ipv6 listen socket on port 1883.
+1707796707: Opening ipv4 listen socket on port 1884.
+1707796707: Opening ipv6 listen socket on port 1884.
+1707796707: mosquitto version 2.0.18 running
+1707796708: New connection from 172.18.0.4:45614 on port 1883.
+1707796708: Client mqttjs_a18cba62 disconnected, not authorised.
+1707796738: New connection from 172.18.0.4:35532 on port 1883.
+1707796738: Client mqttjs_5df7d185 disconnected, not authorised.
+1707796751: New connection from 172.18.0.4:45306 on port 1883.
+1707796751: Client mqttjs_54d0e483 disconnected, not authorised.
+1707796795: New connection from 172.18.0.4:55860 on port 1883.
+1707796795: Client mqttjs_00a2cbea disconnected, not authorised.
+1707796848: mosquitto version 2.0.18 terminating
+1707796848: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707796848: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707796848: mosquitto version 2.0.18 starting
+1707796848: Config loaded from /mosquitto/config/mosquitto.conf.
+1707796848: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1707796848: Error: Invalid password hash type for user server, removing entry.
+1707796848: Opening ipv4 listen socket on port 1883.
+1707796848: Opening ipv6 listen socket on port 1883.
+1707796848: Opening ipv4 listen socket on port 1884.
+1707796848: Opening ipv6 listen socket on port 1884.
+1707796848: mosquitto version 2.0.18 running
+1707796858: New connection from 172.18.0.4:59314 on port 1883.
+1707796858: Client mqttjs_b76538c0 disconnected, not authorised.
+1707796867: New connection from 172.18.0.4:59556 on port 1883.
+1707796867: Client mqttjs_eed667f9 disconnected, not authorised.
+1707796870: New connection from 172.18.0.4:59568 on port 1883.
+1707796870: Client mqttjs_ef863fab disconnected, not authorised.
+1707797048: New connection from 172.18.0.4:59350 on port 1883.
+1707797048: Client mqttjs_7cddcece disconnected, not authorised.
+1707797130: New connection from 172.18.0.4:43356 on port 1883.
+1707797130: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1707797130: Client <unknown> disconnected: Protocol error.
+1707797135: New connection from 172.18.0.4:52934 on port 1883.
+1707797135: Client mqttjs_21878718 disconnected, not authorised.
+1707797164: New connection from 172.18.0.4:36698 on port 1883.
+1707797164: Client <unknown> closed its connection.
+1707797189: New connection from 172.18.0.4:37216 on port 1883.
+1707797189: Client mqttjs_0d6bcab4 disconnected, not authorised.
+1707797326: New connection from 172.18.0.1:46372 on port 1883.
+1707797326: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1707797326: Client <unknown> disconnected: Protocol error.
+1707797543: mosquitto version 2.0.18 terminating
+1707797543: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707797543: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707797548: mosquitto version 2.0.18 starting
+1707797548: Config loaded from /mosquitto/config/mosquitto.conf.
+1707797548: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1707797548: Opening ipv4 listen socket on port 1883.
+1707797548: Opening ipv6 listen socket on port 1883.
+1707797548: Opening ipv4 listen socket on port 1884.
+1707797548: Opening ipv6 listen socket on port 1884.
+1707797548: mosquitto version 2.0.18 running
+1707797550: New connection from 172.18.0.4:47932 on port 1883.
+1707797550: New client connected from 172.18.0.4:47932 as mqttjs_48c28479 (p2, c1, k60, u'server').
+1707797691: Client connection from 172.18.0.3 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1707797726: Client connection from 127.0.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1707797825: Client connection from 127.0.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1707797890: Client connection from 127.0.0.1 failed: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version.
+1707798059: Client mqttjs_48c28479 closed its connection.
+1707798059: New connection from 172.18.0.4:41042 on port 1883.
+1707798059: Client mqttjs_775ed558 disconnected, not authorised.
+1707798063: New connection from 172.18.0.4:41058 on port 1883.
+1707798063: New client connected from 172.18.0.4:41058 as mqttjs_63d8d9e6 (p2, c1, k60, u'server').
+1707798389: New connection from 172.18.0.1:56092 on port 1883.
+1707798389: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1707798389: Client <unknown> disconnected: Protocol error.
+1707798565: New connection from 172.18.0.1:41108 on port 1883.
+1707798565: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1707798565: Client <unknown> disconnected: Protocol error.
+1707798729: New connection from 172.18.0.1:55686 on port 1883.
+1707798729: OpenSSL Error[0]: error:1402542E:SSL routines:ACCEPT_SR_CLNT_HELLO:tlsv1 alert protocol version
+1707798729: Client <unknown> disconnected: Protocol error.
+1707798741: New connection from 172.18.0.1:35200 on port 1884.
+1707798741: New client connected from 172.18.0.1:35200 as mosq-bf5Ag0tIYcdU9xeI2o (p2, c1, k60, u'server').
+1707798741: Client mosq-bf5Ag0tIYcdU9xeI2o disconnected.
+1707798741: Client mqttjs_63d8d9e6 closed its connection.
+1707799051: New connection from 172.18.0.4:44382 on port 1883.
+1707799051: New client connected from 172.18.0.4:44382 as mqttjs_a5a8ee91 (p2, c1, k60, u'server').
+1707799057: Client mqttjs_a5a8ee91 closed its connection.
+1707799057: New connection from 172.18.0.4:47380 on port 1883.
+1707799057: New client connected from 172.18.0.4:47380 as mqttjs_aa12fef1 (p2, c1, k60, u'server').
+1707799068: Client mqttjs_aa12fef1 closed its connection.
+1707799069: New connection from 172.18.0.4:40680 on port 1883.
+1707799069: Client <unknown> closed its connection.
+1707799181: New connection from 172.18.0.4:50838 on port 1883.
+1707799181: New client connected from 172.18.0.4:50838 as mqttjs_5d2dc33a (p2, c1, k60, u'server').
+1707799349: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707799349: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707799547: mosquitto version 2.0.18 terminating
+1707799547: Saving in-memory database to /mosquitto/data//mosquitto.db.
+1707799547: Warning: File /mosquitto/data//mosquitto.db.new has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/data//mosquitto.db.new`.
+1707799548: mosquitto version 2.0.18 starting
+1707799548: Config loaded from /mosquitto/config/mosquitto.conf.
+1707799548: Warning: File /mosquitto/config/password_file has world readable permissions. Future versions will refuse to load this file.
+To fix this, use `chmod 0700 /mosquitto/config/password_file`.
+1707799548: Error: Invalid password hash type for user server, removing entry.
+1707799548: Error: Invalid password hash type for user sensor, removing entry.
+1707799548: Opening ipv4 listen socket on port 1883.
+1707799548: Opening ipv6 listen socket on port 1883.
+1707799548: Opening ipv4 listen socket on port 1884.
+1707799548: Opening ipv6 listen socket on port 1884.
+1707799548: mosquitto version 2.0.18 running
+1707799548: New connection from 172.18.0.4:34072 on port 1883.
+1707799548: Client mqttjs_5d2dc33a disconnected, not authorised.
